@@ -20,11 +20,18 @@ Here are some ideas to get you started:
 LATEST UPDATE: Exploring Android Jetpack Compose and Backend stuff with Kotlin 🥽.
 
 🎍 Welcome to my hub 👨‍💻
+
 💼 Android Developer @ CGI
-👨‍💻 #SelfTaught Developer.
-📱 Mobile App developer.
+
+👨‍💻 #SelfTaught Developer
+
+📱 Mobile App developer
+
 👨‍💻 Mostly working on ❤️Android ❤️Kotlin
+
 🌐 Little bit exploring iOS development too.
-Loves 🎵 and 🎹.
-Proud 🇮🇳.
+
+Loves 🎵 and 🎹
+
+Proud 🇮🇳
 
