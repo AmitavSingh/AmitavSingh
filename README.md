@@ -3,16 +3,6 @@
 <!--
 **AmitavSingh/AmitavSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-LATEST UPDATE: Exploring Android Jetpack Compose and Backend stuff with Kotlin 🥽.
-
-🎍 Welcome to my hub 👨‍💻
-💼 Android Developer @ CGI
-👨‍💻 #SelfTaught Developer.
-📱 Mobile App developer.
-👨‍💻 Mostly working on ❤️Android ❤️Kotlin
-🌐 Little bit exploring iOS development too.
-Loves 🎵 and 🎹.
-Proud 🇮🇳.
 
 
 Here are some ideas to get you started:
@@ -26,3 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+LATEST UPDATE: Exploring Android Jetpack Compose and Backend stuff with Kotlin 🥽.
+
+🎍 Welcome to my hub 👨‍💻
+💼 Android Developer @ CGI
+👨‍💻 #SelfTaught Developer.
+📱 Mobile App developer.
+👨‍💻 Mostly working on ❤️Android ❤️Kotlin
+🌐 Little bit exploring iOS development too.
+Loves 🎵 and 🎹.
+Proud 🇮🇳.
+
