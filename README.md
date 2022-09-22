@@ -1,37 +1,26 @@
-### Hi there 👋 I'm Amitav Singh 🙋‍♂️
+### Hi there 👋 I'm Amitav Singh 🙋‍♂️  - A Mobile Application developer who is enthusiastic about building interactive mobile applications for Android & iOS platforms.
 
-<!--
-**AmitavSingh/AmitavSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Around 6 years of experience in Mobile Application
+Development (iOS & Android) with Swift & Kotlin.
+Has in-depth knowledge on mobile application
+architecture and played a key role in designing and
+executing small to large scale projects.
+Possesses excellent team building and managing skills.
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 LATEST UPDATE: Exploring Android Jetpack Compose and Backend stuff with Kotlin 🥽.
 
-🎍 Welcome to my hub 👨‍💻
+🎍 Welcome to my hub 👨‍💻 
 
 💼 Android Developer @ CGI
-
-👨‍💻 #SelfTaught Developer
 
 📱 Mobile App developer
 
 👨‍💻 Mostly working on ❤️Android ❤️Kotlin
 
-🌐 Little bit exploring iOS development too.
-
 Loves 🎵 and 🎹
 
-Proud 🇮🇳dian
+Proud 🇮🇳Indian
+
+
 
