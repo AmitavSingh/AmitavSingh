@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Amitav Singh 🙋‍♂️  - A Mobile Application developer who is enthusiastic about building interactive mobile applications for Android & iOS platforms.
 
-Around 6 years of experience in Mobile Application
+7+ years of experience in Mobile Application
 Development (iOS & Android) with Swift & Kotlin.
 Has in-depth knowledge on mobile application
 architecture and played a key role in designing and
