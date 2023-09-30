@@ -12,7 +12,7 @@ LATEST UPDATE: Exploring Android Jetpack Compose and Backend stuff with Kotlin �
 
 🎍 Welcome to my hub 👨‍💻 
 
-💼 Android Developer @ CGI
+💼 Android Developer @ KLM Royal Dutch Airlines
 
 📱 Mobile App developer
 
